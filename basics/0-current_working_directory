@@ -1,0 +1,3 @@
+#!/bin/bash
+which ./0-current_working_directory
+/basics
